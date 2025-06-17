@@ -6,6 +6,8 @@ Source code is hidden for privacy, but this repo contains a design document, dem
 
 Deployed frontend URL: [https://gregarious-croissant-76b621.netlify.app/](https://gregarious-croissant-76b621.netlify.app/)
 
+Built in Solidity, React + RainbowKit
+
 ## Report
 Report can be found in report/report.md
 
